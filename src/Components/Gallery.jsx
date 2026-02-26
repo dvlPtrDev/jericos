@@ -2,10 +2,10 @@ import { Container, Row, Col, Image } from "react-bootstrap";
 
 export default function Gallery() {
   const images = [
-    "src/assets/logo-nobg.png",
-    "src/assets/logo-nobg.png",
-    "src/assets/logo-nobg.png",
-    "src/assets/logo-nobg.png",
+    "../assets/logo-nobg.png",
+    "../assets/logo-nobg.png",
+    "../assets/logo-nobg.png",
+    "../assets/logo-nobg.png",
   ];
 
   return (
