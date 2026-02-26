@@ -1,0 +1,19 @@
+.link {
+    transition: color .5s ease-in-out;
+}
+.link:hover {
+    color: var(--red-dark);
+}
+.btn {
+    transition: background-color .5s ease;
+}
+.btn:hover {
+    background-color: var(--navy-dark);
+}
+
+h2 {
+    margin-top: 40px;
+}
+p {
+    margin: 20px 0 20px 0;
+}
